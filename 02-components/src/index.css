@@ -1,0 +1,45 @@
+/* Select the whole page */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 20px;
+}
+
+/* Style a heading */
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+/* Style a paragraph */
+p {
+  color: #333;
+  font-size: 18px;
+}
+
+/* Style a button */
+button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkgreen;
+}
+
+.card{
+  background-color: rgb(192, 255, 235);
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.nav{
+  background-color: #e79d13;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
