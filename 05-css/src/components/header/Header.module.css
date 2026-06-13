@@ -1,0 +1,14 @@
+.header{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px 20px;
+  }
+
+  .btn{
+    background-color: yellow;
+  }
+  .logo{
+    text-decoration: underline;
+  }
