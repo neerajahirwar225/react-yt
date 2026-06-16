@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+}
+
+input ,button{
+  margin: 30px;
+  padding: 10px 20px;
+  font-size: 20px;
+}
