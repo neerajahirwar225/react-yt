@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #111;
+}
+
+.light{
+  display: flex;
+  background-color: lightseagreen;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.dark{
+  display: flex;
+  background-color: darkslategrey;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.nav2{
+  display: flex;
+  gap: 30px;
+  margin-top: 10px;
+}
